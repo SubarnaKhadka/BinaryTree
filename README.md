@@ -1,5 +1,6 @@
 # Binary Tree in Data Structures - Java 
 
+![BinaryTree](https://github.com/SubarnaKhadka/BinaryTree/blob/main/binarytree.PNG)
  # Code covering Concept of   :  
   + ### ***Build Tree (from Preorder)***
  + ### ***Preorder Traversal***
